@@ -1,0 +1,12 @@
+start_times:
+  - 1371092384
+duration: 1024
+fl: 55
+fh: 65
+strain_channel:
+  - 'K1:CAL-CS_PROC_DARM_STRAIN_DBL_DQ'
+wit_channels: '/home/shu-wei.yeh/K1-O4a/O4_channels/voltage_channels_DeepClean.txt'
+fftlength: 16
+overlap: 8
+folder_path: '/data/KAGRA/raw/science/'
+output_fig_path: '/home/shu-wei.yeh/Results/coh_plot'
